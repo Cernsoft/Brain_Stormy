@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/26748622/README.md)
+
 # Brainstorm — Dinamik Karar Motoru 🧠
 
 > Not sistemi değil, **karar makinesi.**  
